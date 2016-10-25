@@ -1,5 +1,5 @@
 package marek;
 
-public class silnia {
+public class silnia { //fajne zajêcia
 
 }
